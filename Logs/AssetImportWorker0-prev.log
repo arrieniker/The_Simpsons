@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.22f1 (887be4894c44) revision 8944612'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'es' Physical Memory: 15716 MB
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalWorkstation' Language: 'es' Physical Memory: 16277 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2022.3.22f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/fedfa/AppData/Local/VRChatProjects/Prueba mundo 1
+C:/Users/whoarlord/The_Simpsons
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54612
-Successfully changed project path to: C:/Users/fedfa/AppData/Local/VRChatProjects/Prueba mundo 1
-C:/Users/fedfa/AppData/Local/VRChatProjects/Prueba mundo 1
+49794
+Successfully changed project path to: C:/Users/whoarlord/The_Simpsons
+C:/Users/whoarlord/The_Simpsons
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,65 +49,65 @@ C:/Users/fedfa/AppData/Local/VRChatProjects/Prueba mundo 1
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4852] Host "[IP] 192.168.220.1 [Port] 0 [Flags] 2 [Guid] 1608900866 [EditorId] 1608900866 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-M8NEEUI6) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [7080] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 1469376884 [EditorId] 1469376884 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-1LS2VRF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4852] Host "[IP] 192.168.220.1 [Port] 0 [Flags] 2 [Guid] 1608900866 [EditorId] 1608900866 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-M8NEEUI6) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [7080] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 1469376884 [EditorId] 1469376884 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-1LS2VRF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
-Refreshing native plugins compatible for Editor in 139.52 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 2.65 ms.
+Refreshing native plugins compatible for Editor in 63.33 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 1.61 ms.
 Initialize engine version: 2022.3.22f1 (887be4894c44)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/fedfa/AppData/Local/VRChatProjects/Prueba mundo 1/Assets
+[Subsystems] Discovering subsystems at path C:/Users/whoarlord/The_Simpsons/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon(TM) Graphics (ID=0x1638)
-    Vendor:   ATI
-    VRAM:     7858 MB
-    Driver:   27.20.15002.11002
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8024 MB
+    Driver:   32.0.15.6094
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56376
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.026593 seconds.
-- Loaded All Assemblies, in  0.851 seconds
+Registered in 0.008622 seconds.
+- Loaded All Assemblies, in  0.472 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.671 seconds
-Domain Reload Profiling: 1517ms
-	BeginReloadAssembly (262ms)
+- Finished resetting the current domain, in  0.397 seconds
+Domain Reload Profiling: 867ms
+	BeginReloadAssembly (135ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (84ms)
-	RebuildNativeTypeToScriptingClass (23ms)
-	initialDomainReloadingComplete (155ms)
-	LoadAllAssembliesAndSetupDomain (321ms)
-		LoadAssemblies (255ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (84ms)
+	LoadAllAssembliesAndSetupDomain (193ms)
+		LoadAssemblies (133ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (317ms)
-			TypeCache.Refresh (315ms)
-				TypeCache.ScanAssembly (286ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
+		AnalyzeDomain (190ms)
+			TypeCache.Refresh (188ms)
+				TypeCache.ScanAssembly (168ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (672ms)
+	FinalizeReload (398ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (542ms)
+		SetupLoadedEditorAssemblies (309ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (22ms)
-			SetLoadedEditorAssemblies (19ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (9ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (6ms)
-			ProcessInitializeOnLoadAttributes (372ms)
-			ProcessInitializeOnLoadMethodAttributes (123ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (212ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -116,8 +116,8 @@ Domain Reload Profiling: 1517ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  2.240 seconds
-Refreshing native plugins compatible for Editor in 61.85 ms, found 7 plugins.
+- Loaded All Assemblies, in  1.302 seconds
+Refreshing native plugins compatible for Editor in 31.20 ms, found 7 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
@@ -145,47 +145,47 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  5.284 seconds
-Domain Reload Profiling: 7508ms
-	BeginReloadAssembly (342ms)
+- Finished resetting the current domain, in  3.273 seconds
+Domain Reload Profiling: 4569ms
+	BeginReloadAssembly (212ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (13ms)
+		DisableScriptedObjects (7ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (47ms)
-	RebuildCommonClasses (85ms)
-	RebuildNativeTypeToScriptingClass (29ms)
-	initialDomainReloadingComplete (121ms)
-	LoadAllAssembliesAndSetupDomain (1646ms)
-		LoadAssemblies (1148ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (933ms)
+		LoadAssemblies (634ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (694ms)
-			TypeCache.Refresh (620ms)
-				TypeCache.ScanAssembly (573ms)
-			ScanForSourceGeneratedMonoScriptInfo (48ms)
-			ResolveRequiredComponents (22ms)
-	FinalizeReload (5285ms)
+		AnalyzeDomain (429ms)
+			TypeCache.Refresh (378ms)
+				TypeCache.ScanAssembly (348ms)
+			ScanForSourceGeneratedMonoScriptInfo (37ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (3274ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (2735ms)
+		SetupLoadedEditorAssemblies (1839ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (16ms)
-			SetLoadedEditorAssemblies (11ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (198ms)
-			ProcessInitializeOnLoadAttributes (1469ms)
-			ProcessInitializeOnLoadMethodAttributes (1009ms)
-			AfterProcessingInitializeOnLoad (31ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (837ms)
+			ProcessInitializeOnLoadMethodAttributes (877ms)
+			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (16ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 63.73 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 0.59 ms.
-Unloading 3463 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 155 unused Assets / (2.8 MB). Loaded Objects now: 3985.
-Memory consumption went from 168.8 MB to 166.1 MB.
-Total: 19.915100 ms (FindLiveObjects: 0.616100 ms CreateObjectMapping: 0.325500 ms MarkObjects: 16.894700 ms  DeleteObjects: 2.077100 ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 82.23 ms, found 7 plugins.
+Preloading 2 native plugins for Editor in 0.46 ms.
+Unloading 3483 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 158 unused Assets / (2.6 MB). Loaded Objects now: 4004.
+Memory consumption went from 169.2 MB to 166.6 MB.
+Total: 11.406500 ms (FindLiveObjects: 0.591500 ms CreateObjectMapping: 0.190300 ms MarkObjects: 9.457400 ms  DeleteObjects: 1.164700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -203,127 +203,38 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 693910.848276 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE Metal (Esnya).prefab
-  artifactKey: Guid(8e4f4fc1a200cbd4dab93813f9fe0382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE Metal (Esnya).prefab using Guid(8e4f4fc1a200cbd4dab93813f9fe0382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b6f7bebec7e1df508326dbf95f497b') in 3.649570 seconds
+  Time since last request: 6846.437582 seconds.
+  path: Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas colores pequeÃ±os, cristales, paredes y puerta.mat
+  artifactKey: Guid(4d0d8acd04ee518478638d47c8c2f575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas colores pequeÃ±os, cristales, paredes y puerta.mat using Guid(4d0d8acd04ee518478638d47c8c2f575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c46c95e21b87e437a27f9a8f5326f65') in 0.169875 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3271
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/VRCBilliardsCE
-  artifactKey: Guid(4ecec77f61aac024abedcb795dd6cce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE using Guid(4ecec77f61aac024abedcb795dd6cce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8085c35e0fdf6bfa7098e4857d0eca3e') in 0.001527 seconds
+  Time since last request: 0.000059 seconds.
+  path: Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas final calle y cesped NM.mat
+  artifactKey: Guid(ecaf53f5c8ad8c34492ff2ba8e4fa612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas final calle y cesped NM.mat using Guid(ecaf53f5c8ad8c34492ff2ba8e4fa612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd66b30888646620b4b86c70af63023') in 0.052583 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000089 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE CottonFox (Esnya).prefab
-  artifactKey: Guid(c0ebd3a335e2a5d40bbc90b82681d806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE CottonFox (Esnya).prefab using Guid(c0ebd3a335e2a5d40bbc90b82681d806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bc79a64432e7e93a5f7f130db9d1f3') in 1.596604 seconds
+  Time since last request: 0.000035 seconds.
+  path: Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas valla y roca.mat
+  artifactKey: Guid(4e3b20b8d40113e4ba19c77e78aeb6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas valla y roca.mat using Guid(4e3b20b8d40113e4ba19c77e78aeb6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f26f537948818976256668d4ca16c2') in 0.040621 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2994
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE (M.O.O.N).prefab
-  artifactKey: Guid(a87ed95f7b1df804680c5c53577e3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE (M.O.O.N).prefab using Guid(a87ed95f7b1df804680c5c53577e3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce5b370c29fbc26a2327e2f6f277f1e') in 0.933853 seconds
+  Time since last request: 0.000032 seconds.
+  path: Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas final calle y arboles.mat
+  artifactKey: Guid(655df93ade173854ca25a8ffae6afbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mapa-springfield/source/mapa-final-simpson/source/FINAL OBJ/Materials/Atlas final calle y arboles.mat using Guid(655df93ade173854ca25a8ffae6afbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed09d47ec516bc8c168251cfbb65fad') in 0.028404 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3094
-========================================================================
-Received Import Request.
-  Time since last request: 59.058295 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE (M.O.O.N).prefab
-  artifactKey: Guid(a87ed95f7b1df804680c5c53577e3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE (M.O.O.N).prefab using Guid(a87ed95f7b1df804680c5c53577e3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7d633fc15e9633085447ea586b4931') in 0.597072 seconds
-Number of updated asset objects reloaded before import = 3
-Number of asset objects unloaded after import = 3094
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 73.24 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 0.38 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 20 unused Assets / (2.5 MB). Loaded Objects now: 3999.
-Memory consumption went from 104.1 MB to 101.6 MB.
-Total: 166.116700 ms (FindLiveObjects: 0.494200 ms CreateObjectMapping: 0.375300 ms MarkObjects: 163.500500 ms  DeleteObjects: 1.745000 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 64.22 ms, found 7 plugins.
-Preloading 2 native plugins for Editor in 0.25 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 18 unused Assets / (2.5 MB). Loaded Objects now: 3999.
-Memory consumption went from 104.1 MB to 101.6 MB.
-Total: 125.581600 ms (FindLiveObjects: 0.379700 ms CreateObjectMapping: 0.306700 ms MarkObjects: 123.174200 ms  DeleteObjects: 1.719600 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 40.631741 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE Metal (Esnya).prefab
-  artifactKey: Guid(8e4f4fc1a200cbd4dab93813f9fe0382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE Metal (Esnya).prefab using Guid(8e4f4fc1a200cbd4dab93813f9fe0382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3b5ef321119756e7705f2f3c9ec79c') in 0.604727 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3270
-========================================================================
-Received Import Request.
-  Time since last request: 1600.778219 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE (M.O.O.N).prefab
-  artifactKey: Guid(a87ed95f7b1df804680c5c53577e3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE (M.O.O.N).prefab using Guid(a87ed95f7b1df804680c5c53577e3f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501dcb952361e3befbc9f4850ef63460') in 1.568191 seconds
-Number of updated asset objects reloaded before import = 19
-Number of asset objects unloaded after import = 3093
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE Metal (M.O.O.N).prefab
-  artifactKey: Guid(11577986d4914bc4fb83bccab76dcce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE Metal (M.O.O.N).prefab using Guid(11577986d4914bc4fb83bccab76dcce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0603db1e807bf8fba94586472c076a') in 0.797201 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3249
-========================================================================
-Received Import Request.
-  Time since last request: 0.000074 seconds.
-  path: Assets/VRCBilliardsCE/VRCBCE CottonFox (Esnya).prefab
-  artifactKey: Guid(c0ebd3a335e2a5d40bbc90b82681d806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/VRCBilliardsCE/VRCBCE CottonFox (Esnya).prefab using Guid(c0ebd3a335e2a5d40bbc90b82681d806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd286e3d225d33cc1ff1f44ea8bfb6349') in 1.264063 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2993
+Number of asset objects unloaded after import = 2
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
